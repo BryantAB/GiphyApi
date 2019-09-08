@@ -3,7 +3,7 @@
 
 $( document ).ready(function() {
     
-    var actions = ["Dancing", "Jogging", "Falling", "Reading", "Pushing", "Swimming", "Eating", "Skipping", "Crying", "Winking","Beyoncing", "Strolling", "Hopping"];
+    var actions = ["Dancing", "Running", "Falling", "Reading", "Basketball", "Swimming", "Eating", "Skateboarding", "Crying", "Singing", "Strolling", "Hopping"];
     
     function displayGifButtons(){
         $("#gifButtonsView").empty(); 
