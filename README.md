@@ -1,6 +1,6 @@
 # GiphyApi
 
-Hello!
+Hello There!
 This is an action gif app.
 We all love gifs and how they can capture a clip of our favorite moments.
 You will be able to search any action and it will be displayed in gif below.
